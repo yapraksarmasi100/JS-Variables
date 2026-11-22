@@ -76,7 +76,6 @@ let area = PI * radius * radius;
 alert("Area of the circle: " + area.toFixed(2));
 }
 
-
 // --- numberInfo() ---
 // This function prompts for a whole number and calculates
 // its square and its remainder when divided by 3.
